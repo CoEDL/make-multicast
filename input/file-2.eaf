@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2020-09-29T18:18:01+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="qaa-fonipa-x-eib">Charis SIL-true</PROPERTY>
+        <PROPERTY NAME="en">Times New Roman</PROPERTY>
+        <PROPERTY NAME="languages">qaa-fonipa-x-eib en</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4e4bdfb8-02e4-4c86-8fe3-1ff29763b08c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">0</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6139"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6294"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="7493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="184602"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="qaa-fonipa-x-eib" LINGUISTIC_TYPE_REF="morph-item" PARENT_REF="A_morph-txt-qaa-fonipa-x-eib" PARTICIPANT="DDD" TIER_ID="A_morph-cf-qaa-fonipa-x-eib">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann8" ANNOTATION_REF="ann6_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>morph</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann18" ANNOTATION_REF="ann16_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>morph</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann24" ANNOTATION_REF="ann22_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>morph</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann30" ANNOTATION_REF="ann28_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>morph</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann39" ANNOTATION_REF="ann37_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>morph</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann45" ANNOTATION_REF="ann43_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>morph</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann51" ANNOTATION_REF="ann49_flexid_d7f713dd-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>morph</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="morph-item" PARENT_REF="A_morph-txt-qaa-fonipa-x-eib" PARTICIPANT="DDD" TIER_ID="A_morph-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann10" ANNOTATION_REF="ann6_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann19" ANNOTATION_REF="ann16_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann25" ANNOTATION_REF="ann22_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann31" ANNOTATION_REF="ann28_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann40" ANNOTATION_REF="ann37_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann47" ANNOTATION_REF="ann43_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann52" ANNOTATION_REF="ann49_flexid_d7f713dd-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="morph-item" PARENT_REF="A_morph-txt-qaa-fonipa-x-eib" PARTICIPANT="DDD" TIER_ID="A_morph-glsAppend-en"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="morph-item" PARENT_REF="A_morph-txt-qaa-fonipa-x-eib" PARTICIPANT="DDD" TIER_ID="A_morph-hn-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann9" ANNOTATION_REF="ann6_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann46" ANNOTATION_REF="ann43_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="morph-item" PARENT_REF="A_morph-txt-qaa-fonipa-x-eib" PARTICIPANT="DDD" TIER_ID="A_morph-msa-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann11" ANNOTATION_REF="ann6_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>msa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann20" ANNOTATION_REF="ann16_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>msa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann26" ANNOTATION_REF="ann22_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>msa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann32" ANNOTATION_REF="ann28_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>msa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann41" ANNOTATION_REF="ann37_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>msa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann48" ANNOTATION_REF="ann43_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>msa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann53" ANNOTATION_REF="ann49_flexid_d7f713dd-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>msa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="qaa-fonipa-x-eib" LINGUISTIC_TYPE_REF="morph" PARENT_REF="A_word-txt-qaa-fonipa-x-eib" PARTICIPANT="DDD" TIER_ID="A_morph-txt-qaa-fonipa-x-eib">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann6_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933" ANNOTATION_REF="ann5_flexid_dc25576e-f96a-493a-bdfb-a1388426c3ac">
+                <ANNOTATION_VALUE>text</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann16_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933" ANNOTATION_REF="ann15_flexid_b260abad-4de7-4e44-9053-b2908fafbf4d">
+                <ANNOTATION_VALUE>text</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann22_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933" ANNOTATION_REF="ann21_flexid_854196d5-f222-4c27-b77c-d0cae3d14f09">
+                <ANNOTATION_VALUE>text</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann28_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933" ANNOTATION_REF="ann27_flexid_b14d5ac4-921e-4220-9b31-4fe54c5ed9e1">
+                <ANNOTATION_VALUE>text</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann37_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933" ANNOTATION_REF="ann36_flexid_143f255a-828c-4473-833a-2109e81ae423">
+                <ANNOTATION_VALUE>text</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann43_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933" ANNOTATION_REF="ann42_flexid_0531e413-56cb-4e2e-9ce1-db02efe445db">
+                <ANNOTATION_VALUE>text</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann49_flexid_d7f713dd-e8cf-11d3-9764-00c04f186933" ANNOTATION_REF="ann42_flexid_0531e413-56cb-4e2e-9ce1-db02efe445db" PREVIOUS_ANNOTATION="ann43_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>text</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="morph-item" PARENT_REF="A_morph-txt-qaa-fonipa-x-eib" PARTICIPANT="DDD" TIER_ID="A_morph-type">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann7" ANNOTATION_REF="ann6_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>stem</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann17" ANNOTATION_REF="ann16_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>stem</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann23" ANNOTATION_REF="ann22_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>stem</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann29" ANNOTATION_REF="ann28_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>stem</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann38" ANNOTATION_REF="ann37_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>stem</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann44" ANNOTATION_REF="ann43_flexid_d7f713e8-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>stem</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann50" ANNOTATION_REF="ann49_flexid_d7f713dd-e8cf-11d3-9764-00c04f186933">
+                <ANNOTATION_VALUE>suffix</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="morph-item" PARENT_REF="A_morph-txt-qaa-fonipa-x-eib" PARTICIPANT="DDD" TIER_ID="A_morph-variantTypes-en"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="A_phrase-segnum-en" PARTICIPANT="DDD" TIER_ID="A_phrase-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann3" ANNOTATION_REF="ann2_flexid_de7d61fc-c6e2-4406-bd7b-a050c2e45e4d">
+                <ANNOTATION_VALUE>phrase-gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann13" ANNOTATION_REF="ann12_flexid_c2579925-ce29-49e0-bc0f-4980e405d10f">
+                <ANNOTATION_VALUE>phrase-gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann34" ANNOTATION_REF="ann33_flexid_0232a26c-e814-40ca-9f3d-ab72e8827e60">
+                <ANNOTATION_VALUE>phrase-gloss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="A_phrase-segnum-en" PARTICIPANT="DDD" TIER_ID="A_phrase-note-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann4" ANNOTATION_REF="ann2_flexid_de7d61fc-c6e2-4406-bd7b-a050c2e45e4d">
+                <ANNOTATION_VALUE>Speaker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann14" ANNOTATION_REF="ann12_flexid_c2579925-ce29-49e0-bc0f-4980e405d10f">
+                <ANNOTATION_VALUE>Speaker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann35" ANNOTATION_REF="ann33_flexid_0232a26c-e814-40ca-9f3d-ab72e8827e60">
+                <ANNOTATION_VALUE>Speaker</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phrase" PARTICIPANT="DDD" TIER_ID="A_phrase-segnum-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann2_flexid_de7d61fc-c6e2-4406-bd7b-a050c2e45e4d" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann12_flexid_c2579925-ce29-49e0-bc0f-4980e405d10f" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann33_flexid_0232a26c-e814-40ca-9f3d-ab72e8827e60" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>3</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="qaa-fonipa-x-eib" LINGUISTIC_TYPE_REF="word" PARENT_REF="A_phrase-segnum-en" PARTICIPANT="DDD" TIER_ID="A_word-txt-qaa-fonipa-x-eib">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann5_flexid_dc25576e-f96a-493a-bdfb-a1388426c3ac" ANNOTATION_REF="ann2_flexid_de7d61fc-c6e2-4406-bd7b-a050c2e45e4d">
+                <ANNOTATION_VALUE>word</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann15_flexid_b260abad-4de7-4e44-9053-b2908fafbf4d" ANNOTATION_REF="ann12_flexid_c2579925-ce29-49e0-bc0f-4980e405d10f">
+                <ANNOTATION_VALUE>word</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann21_flexid_854196d5-f222-4c27-b77c-d0cae3d14f09" ANNOTATION_REF="ann12_flexid_c2579925-ce29-49e0-bc0f-4980e405d10f" PREVIOUS_ANNOTATION="ann15_flexid_b260abad-4de7-4e44-9053-b2908fafbf4d">
+                <ANNOTATION_VALUE>word</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann27_flexid_b14d5ac4-921e-4220-9b31-4fe54c5ed9e1" ANNOTATION_REF="ann12_flexid_c2579925-ce29-49e0-bc0f-4980e405d10f" PREVIOUS_ANNOTATION="ann21_flexid_854196d5-f222-4c27-b77c-d0cae3d14f09">
+                <ANNOTATION_VALUE>word</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann36_flexid_143f255a-828c-4473-833a-2109e81ae423" ANNOTATION_REF="ann33_flexid_0232a26c-e814-40ca-9f3d-ab72e8827e60">
+                <ANNOTATION_VALUE>word</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="ann42_flexid_0531e413-56cb-4e2e-9ce1-db02efe445db" ANNOTATION_REF="ann33_flexid_0232a26c-e814-40ca-9f3d-ab72e8827e60" PREVIOUS_ANNOTATION="ann36_flexid_143f255a-828c-4473-833a-2109e81ae423">
+                <ANNOTATION_VALUE>word</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="txt" TIER_ID="interlinear-text-title-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1_flexid_67a126b2-a362-445e-ac45-cabf1e8cea56" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>title</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morph-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morph" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="txt" TIME_ALIGNABLE="true"/>
+    <LOCALE LANGUAGE_CODE="qaa-fonipa-x-eib"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

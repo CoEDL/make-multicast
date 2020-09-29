@@ -53,6 +53,6 @@ wheels/
 *.egg
 
 # Data
-input/*
-input/*.psfx
+# input/*
+input/*.pfsx
 !input/.gitkeep

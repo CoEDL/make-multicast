@@ -323,7 +323,7 @@ def main():
         utt_dur = utt_end - utt_start
         word_dur = int(utt_dur / num_segments)
         word_gloss = [utt_start, word_dur] + word_gloss
-
+        print("word gloss", word_gloss)
         new_dict[utterance_id] = word_gloss
 
     # Having worked all that out, now we can add a ref annotation tier.
